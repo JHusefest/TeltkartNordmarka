@@ -1,2 +1,2 @@
 # TeltkartNordmarka
-Data til teltplasser i nordmarka
+Data for creation of tent-spots in nordmarka Oslo
